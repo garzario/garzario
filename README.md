@@ -11,7 +11,7 @@ founding member and director of social responsibility, artificial intelligence c
 ### building
 
 **[nostro](https://apps.apple.com/app/id6800826901)** · founder, ios lead · 2026 – now \
-plans and memories for couples on iphone, live on the app store. team of three, top contributor with 255 merged prs. swift 6, swiftui, core data with cloudkit, storekit 2. [site](https://nostroapp.com)
+plans and memories for couples on iphone, live on the app store. team of three. swift 6, swiftui, core data with cloudkit, storekit 2. [site](https://nostroapp.com)
 
 **[metro accesible](https://metroaccesible.com)** · co-founder \
 step-by-step guidance along the tactile paving of the monterrey metro for blind and low-vision riders, 9 of 41 stations mapped in detail so far.
