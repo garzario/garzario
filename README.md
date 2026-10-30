@@ -33,6 +33,9 @@ owned the web app and corporate site in react, figma spec to production.
 
 ### hackathon awards
 
+**[salestrack](https://devpost.com/software/salestrack)** · 1st place, alestra challenge · claudetec hackathon 2026 \
+desktop copilot for b2b sales meetings, from first contact to a proposal in one meeting instead of up to three weeks. local transcription that never leaves the laptop, and prices always come from the official catalog, never from the model.
+
 **sentryone** · 1st place, capital one track · hackmty 2026 \
 the last check before a supplier payment in mexico becomes irrevocable. tax blacklist, account forensics, duplicate invoices and the central bank receipt, in the minute before the transfer. [live](https://sentryone-one.vercel.app) · [video](https://youtu.be/yUxlZNeAMKo)
 
