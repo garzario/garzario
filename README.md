@@ -1,10 +1,20 @@
 # patricio garza
 
-software engineer · cs @ tec de monterrey, 2027 \
-apple platforms, the web, and ai that runs on-device \
+software developer · cs @ tec de monterrey, 2027 \
+ios and web apps, ai, automation and devops \
 founding member and director of social responsibility, artificial intelligence club @ itesm
 
 [email](mailto:patricio@garzarios.com) · [linkedin](https://www.linkedin.com/in/patriciogza)
+
+---
+
+### building
+
+**[nostro](https://apps.apple.com/app/id6800826901)** · founder, ios lead · 2026 – now \
+plans and memories for couples on iphone, live on the app store. team of three, top contributor with 255 merged prs. swift 6, swiftui, core data with cloudkit, storekit 2. [site](https://nostroapp.com)
+
+**[metro accesible](https://metroaccesible.com)** · co-founder \
+step-by-step guidance along the tactile paving of the monterrey metro for blind and low-vision riders, 9 of 41 stations mapped in detail so far.
 
 ---
 
@@ -23,18 +33,21 @@ owned the web app and corporate site in react, figma spec to production.
 
 ### hackathon awards
 
-**iris** · 2nd place and national qualifier · swift changemakers hackathon 2026 \
-lead developer. 100% on-device visual reasoning for blind and low-vision users, judged by apple engineers who read the source, shipping to testflight.
+**sentryone** · 1st place, capital one track · hackmty 2026 \
+the last check before a supplier payment in mexico becomes irrevocable. tax blacklist, account forensics, duplicate invoices and the central bank receipt, in the minute before the transfer. [live](https://sentryone-one.vercel.app) · [video](https://youtu.be/yUxlZNeAMKo)
 
-**capital circles** · 3rd place overall · capital one hackathon @ itesm 2026 \
+**iris** · 2nd place and national qualifier · swift changemakers hackathon 2026 \
+lead developer. 100% on-device visual reasoning for blind and low-vision users, judged by apple engineers who read the source, in open beta on testflight.
+
+**[capital circles](https://github.com/garzario/APA)** · 3rd place overall · capital one hackathon @ itesm 2026 \
 lead ios engineer. shared wellness banking for families and roommates without merging accounts, shipped in twelve hours.
 
-**[trolleyops](https://github.com/garzario/gategrouphackmty)** · best use of gemini api (mlh) · hackmty hackathon 2025 \
+**[trolleyops](https://github.com/garzario/gategrouphackmty)** · best use of gemini api (mlh), gategroup track · hackmty 2025 \
 real-time vision reading what enters and leaves an airline trolley in about 500 ms, robust to occlusion.
 
 ---
 
-`swift` `swiftui` `foundation models` `core ml` `vision` `arkit` `typescript` `node` `python` `postgres`
+`swift` `swiftui` `foundation models` `core ml` `vision` `arkit` `cloudkit` `typescript` `node` `react` `python` `postgres`
 
 español · english (c2) · français (a2)
 
