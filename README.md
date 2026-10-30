@@ -45,7 +45,7 @@ lead developer. 100% on-device visual reasoning for blind and low-vision users, 
 **[capital circles](https://github.com/garzario/APA)** · 3rd place overall · capital one hackathon @ itesm 2026 \
 lead ios engineer. shared wellness banking for families and roommates without merging accounts, shipped in twelve hours.
 
-**[trolleyops](https://github.com/garzario/gategrouphackmty)** · best use of gemini api (mlh), gategroup track · hackmty 2025 \
+**[trolleyops](https://devpost.com/software/wisespirit-trolleyops)** · best use of gemini api (mlh), gategroup track · hackmty 2025 \
 real-time vision reading what enters and leaves an airline trolley in about 500 ms, robust to occlusion.
 
 ---
